@@ -1,6 +1,6 @@
-# Cottrell 2023
+# Cottrell 2024
 
-This is the data repository for Cottrell 2023.
+This is the data repository for [Cottrell 2024]().
 
 ## Data
 
